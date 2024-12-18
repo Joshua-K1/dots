@@ -4,8 +4,7 @@ My dotfiles
 
 
 
-
-'''
+```
       ooooooooooooooooooooooooooooooooooooo
       8                                .d88
       8  oooooooooooooooooooooooooooood8888
@@ -26,6 +25,4 @@ My dotfiles
        d              ...oood888888888888b     8 d8888888888888
       d     ...oood88888888888888888888888b    8d88888888888888
      dood8888888888888888888888888888888888b
-
-
-'''
+```
