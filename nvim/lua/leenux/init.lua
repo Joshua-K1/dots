@@ -1,5 +1,5 @@
--- load remaps
+-- remaps
 require("leenux.remap")
 
--- load lazy package manager
+-- lazy package manager
 require("leenux.lazy")
